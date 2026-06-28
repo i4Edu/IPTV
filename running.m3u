@@ -185,7 +185,7 @@ https://tvsen6.aynaott.com/btv_world/index.m3u8
 #EXTINF:-1 tvg-name="ALJAZEERA HD" tvg-logo="https://sunplex.net/iptv/logo/aljazeera.jpg" group-title="International News",ALJAZEERA HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 
-#EXTINF:-1 tvg-name="CNN" tvg-logo="https://sunplex.net/iptv/logo/bbc-world-news.jpg" group-title="International News",CNN
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="International News",CNN
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cnn/playlist.m3u8
 
 #EXTINF:-1 tvg-name="DURONTO TV" tvg-logo="https://sunplex.net/iptv/logo/duronto-tv.jpg" group-title="Bangla Entertainment",DURONTO TV
